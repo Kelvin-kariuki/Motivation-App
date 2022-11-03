@@ -42,3 +42,35 @@ There is dire need to keep the Moringa School Community motivated during and aft
 
 ### Edit User Form
 <br>
+
+
+## Table of content
+
+- [Technologies](#Tools Used)
+- [Description](#description)
+- [Features](#features)
+- [Setup-process](#setup_process)
+- [Project-usage](#project-usage)
+- [Licence](#licence)
+- [Copyright](#copyright)
+
+---
+
+## Technologies
+
+
+--- Ruby on Rails
+
+--- HTML and CSS
+
+--- JavaScript (React)
+
+--- PostgreSQL
+
+--- Heroku (deployment)
+
+--- Git and GitHub (version control)
+
+--- Redux
+
+--- Bootstrap
