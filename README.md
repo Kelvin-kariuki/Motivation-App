@@ -3,12 +3,12 @@
 ## **Authors** :black_nib:
 
 
-    Kelvin Kariuki 
-    Livya Kendi 
-    Oscar Ochieng
-    Peter Atito
+   [Kelvin Kariuki](https://github.com/Kelvin-kariuki)
+    [Livya Kendi](https://github.com/livya-kendi)
+   [Oscar Ochieng](https://github.com/Oscarachieng)
+    [Peter Atito](https://github.com/peterclermy232)
     Newton Mboi
-    Samuel Mwaura
+    [Samuel Mwaura](https://github.com/samuelmwaura)
 
 ---
 
