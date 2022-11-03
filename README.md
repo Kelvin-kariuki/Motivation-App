@@ -4,11 +4,11 @@
 
 
    [Kelvin Kariuki](https://github.com/Kelvin-kariuki)<br>
-    [Livya Kendi](https://github.com/livya-kendi)<br>
+   [Livya Kendi](https://github.com/livya-kendi)<br>
    [Oscar Ochieng](https://github.com/Oscarachieng)<br>
-    [Peter Atito](https://github.com/peterclermy232)<br>
-    [Newton Mboi](https://github.com/devblackie)<br>
-    [Samuel Mwaura](https://github.com/samuelmwaura)<br>
+   [Peter Atito](https://github.com/peterclermy232)<br>
+   [Newton Mboi](https://github.com/devblackie)<br>
+   [Samuel Mwaura](https://github.com/samuelmwaura)<br>
 
 ---
 
@@ -29,7 +29,7 @@ There is dire need to keep the Moringa School Community motivated during and aft
 ## Screen shots :fire:
 
 ### Landing Page
-<br>
+![Landing Page](./Resources/landing.png)
 
 ### Login Page
 
