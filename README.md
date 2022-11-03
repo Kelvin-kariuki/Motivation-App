@@ -46,7 +46,7 @@ There is dire need to keep the Moringa School Community motivated during and aft
 
 ## Table of content
 
-- [Technologies](#Tools Used)
+- [Technologies](#technologies)
 - [Description](#description)
 - [Features](#features)
 - [Setup-process](#setup_process)
@@ -74,3 +74,5 @@ There is dire need to keep the Moringa School Community motivated during and aft
 --- Redux
 
 --- Bootstrap
+
+
