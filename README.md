@@ -26,7 +26,7 @@ There is dire need to keep the Moringa School Community motivated during and aft
 
 ---
 
-## Screen shots
+## Screen shots :fire:
 
 ### Landing Page
 <br>
@@ -241,7 +241,7 @@ rails s
 ---
 
 
-### Contributing to project :memo: :pencil:
+### Contributing to project :memo: 
 
     - Fork the repo
 
