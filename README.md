@@ -17,6 +17,14 @@
 There is dire need to keep the Moringa School Community motivated during and after the bootcamp. <br> With the intensity of the software development program, it can be easy to burn out or even give up along the way. <br> Hence the need for a ***motivation app*** to reach the entire community.
 
 ---
+### Links To Slides & Figma Design
+
+[Linktoslides](https://www.canva.com/design/DAFQqzfrCdg/m_HPRjgSnajJakWdqb4IFw/view?utm_content=DA[#4)<br>
+
+[FigmaDesign](https://www.figma.com/file/d9Ry7aNnWv08VMFdQSCdYC/Untitled?node-id=0%3A1)<br>
+
+
+---
 
 ## Screen shots
 
