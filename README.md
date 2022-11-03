@@ -19,9 +19,9 @@ There is dire need to keep the Moringa School Community motivated during and aft
 ---
 ### Links To Slides & Figma Design
 
-[Linktoslides](https://www.canva.com/design/DAFQqzfrCdg/m_HPRjgSnajJakWdqb4IFw/view?utm_content=DA[#4)<br>
+[Link to slides](https://www.canva.com/design/DAFQqzfrCdg/m_HPRjgSnajJakWdqb4IFw/view?utm_content=DA[#4)<br>
 
-[FigmaDesign](https://www.figma.com/file/d9Ry7aNnWv08VMFdQSCdYC/Untitled?node-id=0%3A1)<br>
+[Figma Design](https://www.figma.com/file/d9Ry7aNnWv08VMFdQSCdYC/Untitled?node-id=0%3A1)<br>
 
 
 ---
