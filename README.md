@@ -127,6 +127,6 @@ The following are the requirements to start and run this project.
 *  Material UI <br>
 *  Bootstrap <br>
 
-### Setup ⚙️
+### Setup ⚙️ ![settings](https://thumbs.dreamstime.com/b/wrench-gear-cogwheel-vector-icon-settings-illustration-symbol-configuration-sign-options-logo-wrench-gear-cogwheel-vector-160757129.jpg)
 
 
