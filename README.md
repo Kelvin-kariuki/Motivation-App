@@ -142,7 +142,7 @@ clone the repo using the command
 change directory using command
 
 ```terminal
-cd Project_Tracking
+cd Motivation-App
 ```
 
 open project in vscode texteditor
