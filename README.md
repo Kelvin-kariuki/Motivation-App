@@ -129,3 +129,93 @@ The following are the requirements to start and run this project.
 
 ### Setup :hammer_and_wrench:
 
+---
+
+#### Client (React)
+
+clone the repo using the command
+
+```terminal
+>>Git Link
+```
+
+change directory using command
+
+```terminal
+cd Project_Tracking
+```
+
+open project in vscode texteditor
+
+```terminal
+code .
+```
+
+install dependancies
+
+```shell
+npm install
+```
+
+run client end
+
+```terminal
+npm run dev
+```
+
+---
+
+#### API (Ruby on Rails)
+
+clone the repo using the command
+
+```terminal
+>> Git Link
+```
+
+change directory using command
+
+```terminal
+cd Motivation-app
+```
+
+open project in vscode texteditor
+
+```terminal
+code .
+```
+
+Check your Ruby version
+
+```terminal
+ruby -v
+```
+
+The ouput should start with something like `ruby 2.7.4` or any later version currently installed.
+
+If not, install the right ruby version using [rbenv](https://github.com/rbenv/rbenv) (it could take a while):
+
+```terminal
+rbenv install 2.7.0
+```
+
+install dependancies packages
+
+```terminal
+bundle install
+```
+
+Initialize the database
+
+```terminal
+rails db:create db:migrate db:seed
+```
+
+run api server
+
+```terminal
+rails s
+```
+
+---
+
