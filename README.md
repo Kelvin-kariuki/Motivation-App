@@ -120,11 +120,11 @@ The following are the requirements to start and run this project.
     Heroku
 
 ### Dependancies
-[x] rails
-[x] ruby
-[x] node
-[x] npm
-[x] Material UI
-[x] Bootstrap
+-[x] rails <br>
+[x] ruby <br>
+[x] node <br>
+[x] npm <br>
+[x] Material UI <br>
+[x] Bootstrap <br>
 
 
