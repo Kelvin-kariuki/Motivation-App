@@ -1,6 +1,6 @@
 # **Motivation-App** :kenya:
 
-## **Authors** :fire:
+## **Authors** :black_nib:
 
 
     Kelvin Kariuki 
@@ -68,7 +68,7 @@ There is dire need to keep the Moringa School Community motivated during and aft
 
 ---
 
-## Technologies
+## Technologies :gear:
 
 
     Ruby on Rails
@@ -241,7 +241,7 @@ rails s
 ---
 
 
-### Contributing to project
+### Contributing to project :memo: :pencil:
 
     - Fork the repo
 
@@ -255,13 +255,13 @@ rails s
 
 ---
 
-## Copyright
+## Copyright :lock:
 
 **This project is licensed under the MIT License - see the LICENSE.md file for details.**
 
 ---
 
-## [License](LICENSE)
+## [License](LICENSE) :shield:
 
 MIT License
 Copyright (c) 2022
