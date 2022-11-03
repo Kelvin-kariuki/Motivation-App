@@ -1,4 +1,4 @@
-# **Motivation-App** :kenya:
+# **Motivation-App** [](https://github.com/Oscarachieng/motivation-app):kenya:
 
 ## **Authors** :black_nib:
 
