@@ -127,4 +127,6 @@ The following are the requirements to start and run this project.
 *  Material UI <br>
 *  Bootstrap <br>
 
+### Setup ⚙️
+
 
