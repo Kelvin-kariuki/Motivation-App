@@ -1,8 +1,6 @@
 # **Motivation-App**
 
-### :fire: My Stats :
-
-## **Authors**
+## **Authors** :fire
 
 
     Kelvin Kariuki 
