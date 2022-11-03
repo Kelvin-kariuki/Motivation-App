@@ -1,4 +1,4 @@
-# **Motivation-App**
+# **Motivation-App** :kenya:
 
 ## **Authors** :fire:
 
@@ -81,7 +81,7 @@ There is dire need to keep the Moringa School Community motivated during and aft
 
 ---
 
-### Features
+### Features :green_circle:
 
 1. The application allows a user to post articles/blogs/videos and audios that will motivate members in the community.
 
@@ -119,7 +119,7 @@ The following are the requirements to start and run this project.
 
     Heroku
 
-### Dependancies
+### Dependancies :link:
 * rails <br>
 *  ruby <br>
 *  node <br>
@@ -127,6 +127,5 @@ The following are the requirements to start and run this project.
 *  Material UI <br>
 *  Bootstrap <br>
 
-### Setup ⚙️ ![settings](https://thumbs.dreamstime.com/b/wrench-gear-cogwheel-vector-icon-settings-illustration-symbol-configuration-sign-options-logo-wrench-gear-cogwheel-vector-160757129.jpg)
-
+### Setup :hammer_and_wrench:
 
