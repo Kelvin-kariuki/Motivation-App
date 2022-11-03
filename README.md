@@ -3,9 +3,9 @@
 ## **Authors**
 
 
-*__ Kelvin Kariuki __*<br>
-*__ Livya Kendi__*<br>
-*__ Oscar Ochieng__*<br>
-*__ Peter Atito__*<br>
-*__ Newton Mboi__*<br>
-*__ Samuel Mwaura__*<br>
+* Kelvin Kariuki *<br>
+* Livya Kendi *<br>
+* Oscar Ochieng*<br>
+* Peter Atito*<br>
+* Newton Mboi*<br>
+* Samuel Mwaura*<br>
