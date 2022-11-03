@@ -63,21 +63,21 @@ There is dire need to keep the Moringa School Community motivated during and aft
 ## Technologies
 
 
---- Ruby on Rails
+    Ruby on Rails
 
---- HTML and CSS
+    HTML and CSS
 
---- JavaScript (React)
+    JavaScript (React)
 
---- PostgreSQL
+    PostgreSQL
 
---- Heroku (deployment)
+    Heroku (deployment)
 
---- Git and GitHub (version control)
+    Git and GitHub (version control)
 
---- Redux
+    Redux
 
---- Bootstrap
+    Bootstrap
 
 ---
 
