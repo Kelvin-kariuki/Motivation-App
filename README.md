@@ -1,6 +1,6 @@
 # **Motivation-App**
 
-## **Authors** :fire
+## **Authors** :fire:
 
 
     Kelvin Kariuki 
