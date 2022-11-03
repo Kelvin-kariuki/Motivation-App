@@ -103,17 +103,28 @@ Members have the access to the application and participate in posting motivating
 
 The following are the requirements to start and run this project.
 
+    Ruby 2.7.4 or later versions.
 
-        Ruby 2.7.4 or later versions.
+    Rails 5.0 or later versions.
 
-        Rails 5.0 or later versions.
+    PostgreSQL 9.5 or later versions.
 
-        PostgreSQL 9.5 or later versions.
+    npm
 
-        npm
+    node
 
-        node
+    Material ui version 4
 
-        Heroku
+    Bootstrap 5
+
+    Heroku
+
+### Dependancies
+[x] rails
+[x] ruby
+[x] node
+[x] npm
+[x] Material UI
+[x] Bootstrap
 
 
