@@ -7,7 +7,7 @@
     [Livya Kendi](https://github.com/livya-kendi)<br>
    [Oscar Ochieng](https://github.com/Oscarachieng)<br>
     [Peter Atito](https://github.com/peterclermy232)<br>
-    Newton Mboi<br>
+    [Newton Mboi](https://github.com/devblackie)<br>
     [Samuel Mwaura](https://github.com/samuelmwaura)<br>
 
 ---
